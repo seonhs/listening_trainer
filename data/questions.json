@@ -1,0 +1,252 @@
+[
+  {
+    "id": "WHO001",
+    "question_word": "Who",
+    "question": "Who is going to lead the meeting?",
+    "translation": "회의를 진행할 사람은 누구인가요?",
+    "category": "사람",
+    "structure": "Who + be going to + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "is going to lead",
+        "meaning": "진행할 예정인가요"
+      },
+      {
+        "chunk": "the meeting",
+        "meaning": "회의를"
+      }
+    ],
+    "audio_file": "WHO001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO002",
+    "question_word": "Who",
+    "question": "Who posted the job ad?",
+    "translation": "채용 공고를 게시한 사람은 누구인가요?",
+    "category": "사람",
+    "structure": "Who + 과거동사 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "posted",
+        "meaning": "게시했나요"
+      },
+      {
+        "chunk": "the job ad",
+        "meaning": "채용 공고를"
+      }
+    ],
+    "audio_file": "WHO002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO003",
+    "question_word": "Who",
+    "question": "Who can I ask for help?",
+    "translation": "누구에게 도움을 요청할 수 있나요?",
+    "category": "사람",
+    "structure": "Who + 조동사 + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누구에게"
+      },
+      {
+        "chunk": "can I ask",
+        "meaning": "제가 요청할 수 있나요"
+      },
+      {
+        "chunk": "for help",
+        "meaning": "도움을"
+      }
+    ],
+    "audio_file": "WHO003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO004",
+    "question_word": "Who",
+    "question": "Who will give a talk at the workshop?",
+    "translation": "워크숍에서 강연할 사람은 누구인가요?",
+    "category": "사람",
+    "structure": "Who + will + 동사원형 + 목적어 + 장소",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "will give a talk",
+        "meaning": "강연할 예정인가요"
+      },
+      {
+        "chunk": "at the workshop",
+        "meaning": "워크숍에서"
+      }
+    ],
+    "audio_file": "WHO004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO005",
+    "question_word": "Who",
+    "question": "Who should I call to fix the printer?",
+    "translation": "프린터를 수리하려면 누구에게 전화해야 하나요?",
+    "category": "사람",
+    "structure": "Who + should + 주어 + 동사원형 + 목적을 나타내는 to부정사",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누구에게"
+      },
+      {
+        "chunk": "should I call",
+        "meaning": "제가 전화해야 하나요"
+      },
+      {
+        "chunk": "to fix the printer",
+        "meaning": "프린터를 수리하기 위해"
+      }
+    ],
+    "audio_file": "WHO005.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO006",
+    "question_word": "Who",
+    "question": "Who signed for this package?",
+    "translation": "이 소포를 수령 확인 서명한 사람은 누구인가요?",
+    "category": "사람",
+    "structure": "Who + 과거동사 + 전치사구",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "signed for",
+        "meaning": "수령 확인 서명을 했나요"
+      },
+      {
+        "chunk": "this package",
+        "meaning": "이 소포에 대해"
+      }
+    ],
+    "audio_file": "WHO006.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO007",
+    "question_word": "Who",
+    "question": "Who is speaking at the meeting?",
+    "translation": "회의에서 발언하고 있는 사람은 누구인가요?",
+    "category": "사람",
+    "structure": "Who + be동사 + 현재분사 + 장소",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "is speaking",
+        "meaning": "발언하고 있나요"
+      },
+      {
+        "chunk": "at the meeting",
+        "meaning": "회의에서"
+      }
+    ],
+    "audio_file": "WHO007.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO008",
+    "question_word": "Who",
+    "question": "Who has prepared the report?",
+    "translation": "보고서를 준비한 사람은 누구인가요?",
+    "category": "사람",
+    "structure": "Who + has + 과거분사 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "has prepared",
+        "meaning": "준비했나요"
+      },
+      {
+        "chunk": "the report",
+        "meaning": "보고서를"
+      }
+    ],
+    "audio_file": "WHO008.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO009",
+    "question_word": "Who",
+    "question": "Who was using the conference room?",
+    "translation": "회의실을 사용하고 있던 사람은 누구였나요?",
+    "category": "사람",
+    "structure": "Who + was + 현재분사 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "was using",
+        "meaning": "사용하고 있었나요"
+      },
+      {
+        "chunk": "the conference room",
+        "meaning": "회의실을"
+      }
+    ],
+    "audio_file": "WHO009.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO010",
+    "question_word": "Who",
+    "question": "Who was invited to the event?",
+    "translation": "행사에 초대받은 사람은 누구였나요?",
+    "category": "사람",
+    "structure": "Who + was + 과거분사 + 전치사구",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "was invited",
+        "meaning": "초대받았나요"
+      },
+      {
+        "chunk": "to the event",
+        "meaning": "행사에"
+      }
+    ],
+    "audio_file": "WHO010.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  }
+]
