@@ -248,5 +248,251 @@
     "audio_file": "WHO010.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
+  },
+  {
+    "id": "WHE001",
+    "question_word": "When",
+    "question": "When did ABC Company confirm the order?",
+    "translation": "ABC 회사는 언제 주문을 확정했나요?",
+    "category": "시간",
+    "structure": "When + did + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "did ABC Company confirm",
+        "meaning": "ABC 회사는 확정했나요"
+      },
+      {
+        "chunk": "the order",
+        "meaning": "주문을"
+      }
+    ],
+    "audio_file": "WHE001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE002",
+    "question_word": "When",
+    "question": "When is the meeting?",
+    "translation": "회의는 언제인가요?",
+    "category": "시간",
+    "structure": "When + be동사 + 주어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "is",
+        "meaning": "인가요"
+      },
+      {
+        "chunk": "the meeting",
+        "meaning": "회의는"
+      }
+    ],
+    "audio_file": "WHE002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE003",
+    "question_word": "When",
+    "question": "When will you meet with the manager?",
+    "translation": "매니저와 언제 만날 예정인가요?",
+    "category": "시간",
+    "structure": "When + will + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "will you meet",
+        "meaning": "만날 예정인가요"
+      },
+      {
+        "chunk": "with the manager",
+        "meaning": "매니저와"
+      }
+    ],
+    "audio_file": "WHE003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE004",
+    "question_word": "When",
+    "question": "When can I see the room?",
+    "translation": "방을 언제 볼 수 있나요?",
+    "category": "시간",
+    "structure": "When + can + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "can I see",
+        "meaning": "제가 볼 수 있나요"
+      },
+      {
+        "chunk": "the room",
+        "meaning": "그 방을"
+      }
+    ],
+    "audio_file": "WHE004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE005",
+    "question_word": "When",
+    "question": "When did we move our office?",
+    "translation": "우리는 언제 사무실을 이전했나요?",
+    "category": "시간",
+    "structure": "When + did + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "did we move",
+        "meaning": "우리는 이전했나요"
+      },
+      {
+        "chunk": "our office",
+        "meaning": "우리 사무실을"
+      }
+    ],
+    "audio_file": "WHE005.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE006",
+    "question_word": "When",
+    "question": "When will the meeting start?",
+    "translation": "회의는 언제 시작하나요?",
+    "category": "시간",
+    "structure": "When + will + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "will",
+        "meaning": "할 예정인가요"
+      },
+      {
+        "chunk": "the meeting start",
+        "meaning": "회의가 시작하는 것은"
+      }
+    ],
+    "audio_file": "WHE006.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE007",
+    "question_word": "When",
+    "question": "When is the report due?",
+    "translation": "보고서 제출 기한은 언제인가요?",
+    "category": "시간",
+    "structure": "When + be동사 + 주어 + 형용사",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "is",
+        "meaning": "인가요"
+      },
+      {
+        "chunk": "the report due",
+        "meaning": "보고서의 제출 기한은"
+      }
+    ],
+    "audio_file": "WHE007.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE008",
+    "question_word": "When",
+    "question": "When does the store open?",
+    "translation": "매장은 언제 문을 여나요?",
+    "category": "시간",
+    "structure": "When + does + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "does the store open",
+        "meaning": "매장은 문을 여나요"
+      }
+    ],
+    "audio_file": "WHE008.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE009",
+    "question_word": "When",
+    "question": "When should we finish the project?",
+    "translation": "우리는 언제 프로젝트를 끝내야 하나요?",
+    "category": "시간",
+    "structure": "When + should + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "should we finish",
+        "meaning": "우리는 끝내야 하나요"
+      },
+      {
+        "chunk": "the project",
+        "meaning": "프로젝트를"
+      }
+    ],
+    "audio_file": "WHE009.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE010",
+    "question_word": "When",
+    "question": "When can you send the files?",
+    "translation": "파일을 언제 보낼 수 있나요?",
+    "category": "시간",
+    "structure": "When + can + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "can you send",
+        "meaning": "보낼 수 있나요"
+      },
+      {
+        "chunk": "the files",
+        "meaning": "파일을"
+      }
+    ],
+    "audio_file": "WHE010.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
   }
 ]
