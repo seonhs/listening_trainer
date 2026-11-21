@@ -1,5 +1,335 @@
 [
   {
+    "id": "WHY001",
+    "question_word": "Why",
+    "question": "Why was the meeting delayed?",
+    "translation": "회의가 왜 연기되었나요?",
+    "category": "이유",
+    "structure": "Why + was + 주어 + 과거분사",
+    "listening_focus": [
+      {
+        "chunk": "Why",
+        "meaning": "왜"
+      },
+      {
+        "chunk": "was the meeting delayed",
+        "meaning": "회의가 연기되었나요"
+      }
+    ],
+    "audio_file": "WHY001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY002",
+    "question_word": "Why",
+    "question": "Why are you going to San Diego?",
+    "translation": "샌디에이고에는 왜 가고 있나요?",
+    "category": "이유",
+    "structure": "Why + be동사 + 주어 + 현재분사",
+    "listening_focus": [
+      {
+        "chunk": "Why",
+        "meaning": "왜"
+      },
+      {
+        "chunk": "are you going",
+        "meaning": "당신은 가고 있나요"
+      },
+      {
+        "chunk": "to San Diego",
+        "meaning": "샌디에이고로"
+      }
+    ],
+    "audio_file": "WHY002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY003",
+    "question_word": "Why",
+    "question": "Why has the project been stopped?",
+    "translation": "그 프로젝트는 왜 중단되었나요?",
+    "category": "이유",
+    "structure": "Why + has + 주어 + been + 과거분사",
+    "listening_focus": [
+      {
+        "chunk": "Why",
+        "meaning": "왜"
+      },
+      {
+        "chunk": "has the project been stopped",
+        "meaning": "프로젝트가 중단되었나요"
+      }
+    ],
+    "audio_file": "WHY003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY004",
+    "question_word": "Why",
+    "question": "Why are background checks done?",
+    "translation": "신원 조회는 왜 실시되나요?",
+    "category": "이유",
+    "structure": "Why + be동사 + 주어 + 과거분사",
+    "listening_focus": [
+      {
+        "chunk": "Why",
+        "meaning": "왜"
+      },
+      {
+        "chunk": "are background checks done",
+        "meaning": "신원 조회가 실시되나요"
+      }
+    ],
+    "audio_file": "WHY004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY005",
+    "question_word": "Why",
+    "question": "Why don't you check again with the seller?",
+    "translation": "판매자에게 다시 확인해 보는 게 어떨까요?",
+    "category": "제안",
+    "structure": "Why don't + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "Why don't you",
+        "meaning": "당신은 ~하는 게 어떨까요"
+      },
+      {
+        "chunk": "check again",
+        "meaning": "다시 확인해 보다"
+      },
+      {
+        "chunk": "with the seller",
+        "meaning": "판매자에게"
+      }
+    ],
+    "audio_file": "WHY005.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY006",
+    "question_word": "Why",
+    "question": "Why don't we plan a meeting for this evening?",
+    "translation": "오늘 저녁에 회의를 계획하는 게 어떨까요?",
+    "category": "제안",
+    "structure": "Why don't + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "Why don't we",
+        "meaning": "우리 ~하는 게 어떨까요"
+      },
+      {
+        "chunk": "plan a meeting",
+        "meaning": "회의를 계획하다"
+      },
+      {
+        "chunk": "for this evening",
+        "meaning": "오늘 저녁을 위해"
+      }
+    ],
+    "audio_file": "WHY006.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW001",
+    "question_word": "How",
+    "question": "How many people applied for the job?",
+    "translation": "그 일자리에 몇 명이 지원했나요?",
+    "category": "수량",
+    "structure": "How many + 복수명사 + 과거동사",
+    "listening_focus": [
+      {
+        "chunk": "How many people",
+        "meaning": "몇 명의 사람"
+      },
+      {
+        "chunk": "applied",
+        "meaning": "지원했나요"
+      },
+      {
+        "chunk": "for the job",
+        "meaning": "그 일자리에"
+      }
+    ],
+    "audio_file": "HOW001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW002",
+    "question_word": "How",
+    "question": "How much are these plates?",
+    "translation": "이 접시들은 얼마인가요?",
+    "category": "가격",
+    "structure": "How much + be동사 + 주어",
+    "listening_focus": [
+      {
+        "chunk": "How much",
+        "meaning": "얼마인가요"
+      },
+      {
+        "chunk": "are these plates",
+        "meaning": "이 접시들은"
+      }
+    ],
+    "audio_file": "HOW002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW003",
+    "question_word": "How",
+    "question": "How often do you make a budget report?",
+    "translation": "예산 보고서를 얼마나 자주 작성하나요?",
+    "category": "빈도",
+    "structure": "How often + do + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "How often",
+        "meaning": "얼마나 자주"
+      },
+      {
+        "chunk": "do you make",
+        "meaning": "당신은 작성하나요"
+      },
+      {
+        "chunk": "a budget report",
+        "meaning": "예산 보고서를"
+      }
+    ],
+    "audio_file": "HOW003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW004",
+    "question_word": "How",
+    "question": "How long will it take to change the system?",
+    "translation": "시스템을 변경하는 데 얼마나 걸릴까요?",
+    "category": "기간",
+    "structure": "How long + will + it + take + to부정사",
+    "listening_focus": [
+      {
+        "chunk": "How long",
+        "meaning": "얼마나 오래"
+      },
+      {
+        "chunk": "will it take",
+        "meaning": "시간이 걸릴까요"
+      },
+      {
+        "chunk": "to change the system",
+        "meaning": "시스템을 변경하는 데"
+      }
+    ],
+    "audio_file": "HOW004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW005",
+    "question_word": "How",
+    "question": "How soon can you put the survey results together?",
+    "translation": "설문 조사 결과를 얼마나 빨리 정리할 수 있나요?",
+    "category": "소요 시간",
+    "structure": "How soon + can + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "How soon",
+        "meaning": "얼마나 빨리"
+      },
+      {
+        "chunk": "can you put together",
+        "meaning": "당신은 정리할 수 있나요"
+      },
+      {
+        "chunk": "the survey results",
+        "meaning": "설문 조사 결과를"
+      }
+    ],
+    "audio_file": "HOW005.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW006",
+    "question_word": "How",
+    "question": "How do I get a new work ID card?",
+    "translation": "새 직장 출입증은 어떻게 발급받을 수 있나요?",
+    "category": "방법",
+    "structure": "How + do + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "How",
+        "meaning": "어떻게"
+      },
+      {
+        "chunk": "do I get",
+        "meaning": "제가 발급받을 수 있나요"
+      },
+      {
+        "chunk": "a new work ID card",
+        "meaning": "새 직장 신분증을"
+      }
+    ],
+    "audio_file": "HOW006.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW007",
+    "question_word": "How",
+    "question": "How would you like to have your package sent?",
+    "translation": "소포를 어떻게 보내 드리면 좋겠습니까?",
+    "category": "방법",
+    "structure": "How + would + 주어 + like + to have + 목적어 + 과거분사",
+    "listening_focus": [
+      {
+        "chunk": "How would you like",
+        "meaning": "어떤 방식으로 원하시나요"
+      },
+      {
+        "chunk": "to have your package sent",
+        "meaning": "소포를 보내 드리는 것을"
+      }
+    ],
+    "audio_file": "HOW007.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW008",
+    "question_word": "How",
+    "question": "How was the business event last Friday?",
+    "translation": "지난 금요일 비즈니스 행사는 어땠나요?",
+    "category": "상태",
+    "structure": "How + was + 주어",
+    "listening_focus": [
+      {
+        "chunk": "How",
+        "meaning": "어땠나요"
+      },
+      {
+        "chunk": "was the business event",
+        "meaning": "비즈니스 행사는"
+      },
+      {
+        "chunk": "last Friday",
+        "meaning": "지난 금요일에"
+      }
+    ],
+    "audio_file": "HOW008.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
     "id": "WHR001",
     "question_word": "Where",
     "question": "Where are the meeting documents?",
@@ -96,7 +426,7 @@
     "voice": "US_Female"
   },
   {
-    "id": "WHY001",
+    "id": "WHY007",
     "question_word": "Why",
     "question": "Why have they moved the tables?",
     "translation": "그들은 왜 테이블을 옮겼나요?",
@@ -116,12 +446,12 @@
         "meaning": "테이블을"
       }
     ],
-    "audio_file": "WHY001.mp3",
+    "audio_file": "WHY007.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHY002",
+    "id": "WHY008",
     "question_word": "Why",
     "question": "Why don't we practice the speech again?",
     "translation": "우리 연설을 다시 연습하는 게 어떨까요?",
@@ -141,12 +471,12 @@
         "meaning": "다시"
       }
     ],
-    "audio_file": "WHY002.mp3",
+    "audio_file": "WHY008.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "HOW001",
+    "id": "HOW009",
     "question_word": "How",
     "question": "How do our customers like the new coffee?",
     "translation": "우리 고객들은 새로운 커피를 어떻게 생각하나요?",
@@ -166,12 +496,12 @@
         "meaning": "새로운 커피를"
       }
     ],
-    "audio_file": "HOW001.mp3",
+    "audio_file": "HOW009.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "HOW002",
+    "id": "HOW010",
     "question_word": "How",
     "question": "How long will the meeting last?",
     "translation": "회의는 얼마나 오래 진행되나요?",
@@ -187,12 +517,12 @@
         "meaning": "회의는 진행되나요"
       }
     ],
-    "audio_file": "HOW002.mp3",
+    "audio_file": "HOW010.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHY003",
+    "id": "WHY009",
     "question_word": "Why",
     "question": "Why did you buy a used car?",
     "translation": "왜 중고차를 구입하셨나요?",
@@ -212,7 +542,7 @@
         "meaning": "중고차를"
       }
     ],
-    "audio_file": "WHY003.mp3",
+    "audio_file": "WHY009.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
@@ -292,7 +622,7 @@
     "voice": "US_Female"
   },
   {
-    "id": "HOW003",
+    "id": "HOW011",
     "question_word": "How",
     "question": "How can I fix my Internet connection?",
     "translation": "인터넷 연결 문제를 어떻게 해결할 수 있나요?",
@@ -312,7 +642,7 @@
         "meaning": "제 인터넷 연결 문제를"
       }
     ],
-    "audio_file": "HOW003.mp3",
+    "audio_file": "HOW011.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
@@ -338,7 +668,7 @@
     "voice": "US_Female"
   },
   {
-    "id": "HOW004",
+    "id": "HOW012",
     "question_word": "How",
     "question": "How much do you spend on food every week?",
     "translation": "매주 음식에 얼마를 지출하시나요?",
@@ -362,7 +692,7 @@
         "meaning": "매주"
       }
     ],
-    "audio_file": "HOW004.mp3",
+    "audio_file": "HOW012.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
@@ -588,7 +918,7 @@
     "voice": "US_Female"
   },
   {
-    "id": "HOW005",
+    "id": "HOW013",
     "question_word": "How",
     "question": "How much is the fee at your gym?",
     "translation": "다니시는 헬스장의 이용료는 얼마인가요?",
@@ -608,7 +938,7 @@
         "meaning": "다니시는 헬스장의"
       }
     ],
-    "audio_file": "HOW005.mp3",
+    "audio_file": "HOW013.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
@@ -684,7 +1014,7 @@
     "voice": "US_Female"
   },
   {
-    "id": "WHO001",
+    "id": "WHO002",
     "question_word": "Who",
     "question": "Who is going to lead the meeting?",
     "translation": "회의를 진행할 사람은 누구인가요?",
@@ -704,12 +1034,12 @@
         "meaning": "회의를"
       }
     ],
-    "audio_file": "WHO001.mp3",
+    "audio_file": "WHO002.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO002",
+    "id": "WHO003",
     "question_word": "Who",
     "question": "Who posted the job ad?",
     "translation": "채용 공고를 게시한 사람은 누구인가요?",
@@ -729,12 +1059,12 @@
         "meaning": "채용 공고를"
       }
     ],
-    "audio_file": "WHO002.mp3",
+    "audio_file": "WHO003.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO003",
+    "id": "WHO004",
     "question_word": "Who",
     "question": "Who can I ask for help?",
     "translation": "누구에게 도움을 요청할 수 있나요?",
@@ -754,12 +1084,12 @@
         "meaning": "도움을"
       }
     ],
-    "audio_file": "WHO003.mp3",
+    "audio_file": "WHO004.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO004",
+    "id": "WHO005",
     "question_word": "Who",
     "question": "Who will give a talk at the workshop?",
     "translation": "워크숍에서 강연할 사람은 누구인가요?",
@@ -779,12 +1109,12 @@
         "meaning": "워크숍에서"
       }
     ],
-    "audio_file": "WHO004.mp3",
+    "audio_file": "WHO005.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO005",
+    "id": "WHO006",
     "question_word": "Who",
     "question": "Who should I call to fix the printer?",
     "translation": "프린터를 수리하려면 누구에게 전화해야 하나요?",
@@ -804,12 +1134,12 @@
         "meaning": "프린터를 수리하기 위해"
       }
     ],
-    "audio_file": "WHO005.mp3",
+    "audio_file": "WHO006.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO006",
+    "id": "WHO007",
     "question_word": "Who",
     "question": "Who signed for this package?",
     "translation": "이 소포를 수령 확인 서명한 사람은 누구인가요?",
@@ -829,12 +1159,12 @@
         "meaning": "이 소포에 대해"
       }
     ],
-    "audio_file": "WHO006.mp3",
+    "audio_file": "WHO007.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO007",
+    "id": "WHO008",
     "question_word": "Who",
     "question": "Who is speaking at the meeting?",
     "translation": "회의에서 발언하고 있는 사람은 누구인가요?",
@@ -854,12 +1184,12 @@
         "meaning": "회의에서"
       }
     ],
-    "audio_file": "WHO007.mp3",
+    "audio_file": "WHO008.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO008",
+    "id": "WHO009",
     "question_word": "Who",
     "question": "Who has prepared the report?",
     "translation": "보고서를 준비한 사람은 누구인가요?",
@@ -879,12 +1209,12 @@
         "meaning": "보고서를"
       }
     ],
-    "audio_file": "WHO008.mp3",
+    "audio_file": "WHO009.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO009",
+    "id": "WHO010",
     "question_word": "Who",
     "question": "Who was using the conference room?",
     "translation": "회의실을 사용하고 있던 사람은 누구였나요?",
@@ -904,12 +1234,12 @@
         "meaning": "회의실을"
       }
     ],
-    "audio_file": "WHO009.mp3",
+    "audio_file": "WHO010.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHO010",
+    "id": "WHO011",
     "question_word": "Who",
     "question": "Who was invited to the event?",
     "translation": "행사에 초대받은 사람은 누구였나요?",
@@ -929,12 +1259,12 @@
         "meaning": "행사에"
       }
     ],
-    "audio_file": "WHO010.mp3",
+    "audio_file": "WHO011.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE001",
+    "id": "WHE003",
     "question_word": "When",
     "question": "When did ABC Company confirm the order?",
     "translation": "ABC 회사는 언제 주문을 확정했나요?",
@@ -954,12 +1284,12 @@
         "meaning": "주문을"
       }
     ],
-    "audio_file": "WHE001.mp3",
+    "audio_file": "WHE003.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE002",
+    "id": "WHE004",
     "question_word": "When",
     "question": "When is the meeting?",
     "translation": "회의는 언제인가요?",
@@ -979,12 +1309,12 @@
         "meaning": "회의는"
       }
     ],
-    "audio_file": "WHE002.mp3",
+    "audio_file": "WHE004.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE003",
+    "id": "WHE005",
     "question_word": "When",
     "question": "When will you meet with the manager?",
     "translation": "매니저와 언제 만날 예정인가요?",
@@ -1004,12 +1334,12 @@
         "meaning": "매니저와"
       }
     ],
-    "audio_file": "WHE003.mp3",
+    "audio_file": "WHE005.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE004",
+    "id": "WHE006",
     "question_word": "When",
     "question": "When can I see the room?",
     "translation": "방을 언제 볼 수 있나요?",
@@ -1029,12 +1359,12 @@
         "meaning": "그 방을"
       }
     ],
-    "audio_file": "WHE004.mp3",
+    "audio_file": "WHE006.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE005",
+    "id": "WHE007",
     "question_word": "When",
     "question": "When did we move our office?",
     "translation": "우리는 언제 사무실을 이전했나요?",
@@ -1054,12 +1384,12 @@
         "meaning": "우리 사무실을"
       }
     ],
-    "audio_file": "WHE005.mp3",
+    "audio_file": "WHE007.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE006",
+    "id": "WHE008",
     "question_word": "When",
     "question": "When will the meeting start?",
     "translation": "회의는 언제 시작하나요?",
@@ -1079,12 +1409,12 @@
         "meaning": "회의가 시작하는 것은"
       }
     ],
-    "audio_file": "WHE006.mp3",
+    "audio_file": "WHE008.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE007",
+    "id": "WHE009",
     "question_word": "When",
     "question": "When is the report due?",
     "translation": "보고서 제출 기한은 언제인가요?",
@@ -1104,12 +1434,12 @@
         "meaning": "보고서의 제출 기한은"
       }
     ],
-    "audio_file": "WHE007.mp3",
+    "audio_file": "WHE009.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE008",
+    "id": "WHE010",
     "question_word": "When",
     "question": "When does the store open?",
     "translation": "매장은 언제 문을 여나요?",
@@ -1125,12 +1455,12 @@
         "meaning": "매장은 문을 여나요"
       }
     ],
-    "audio_file": "WHE008.mp3",
+    "audio_file": "WHE010.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE009",
+    "id": "WHE011",
     "question_word": "When",
     "question": "When should we finish the project?",
     "translation": "우리는 언제 프로젝트를 끝내야 하나요?",
@@ -1150,12 +1480,12 @@
         "meaning": "프로젝트를"
       }
     ],
-    "audio_file": "WHE009.mp3",
+    "audio_file": "WHE011.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   },
   {
-    "id": "WHE010",
+    "id": "WHE012",
     "question_word": "When",
     "question": "When can you send the files?",
     "translation": "파일을 언제 보낼 수 있나요?",
@@ -1175,7 +1505,7 @@
         "meaning": "파일을"
       }
     ],
-    "audio_file": "WHE010.mp3",
+    "audio_file": "WHE012.mp3",
     "audio_speed": 1.0,
     "voice": "US_Female"
   }
