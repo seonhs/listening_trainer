@@ -1,5 +1,689 @@
 [
   {
+    "id": "WHR001",
+    "question_word": "Where",
+    "question": "Where are the meeting documents?",
+    "translation": "회의 자료는 어디에 있나요?",
+    "category": "장소",
+    "structure": "Where + be동사 + 주어",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디에"
+      },
+      {
+        "chunk": "are",
+        "meaning": "있나요"
+      },
+      {
+        "chunk": "the meeting documents",
+        "meaning": "회의 자료가"
+      }
+    ],
+    "audio_file": "WHR001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHR002",
+    "question_word": "Where",
+    "question": "Where can I return these shoes?",
+    "translation": "이 신발을 어디에서 반품할 수 있나요?",
+    "category": "장소",
+    "structure": "Where + can + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디에서"
+      },
+      {
+        "chunk": "can I return",
+        "meaning": "제가 반품할 수 있나요"
+      },
+      {
+        "chunk": "these shoes",
+        "meaning": "이 신발을"
+      }
+    ],
+    "audio_file": "WHR002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHT001",
+    "question_word": "What",
+    "question": "What time does the bank open?",
+    "translation": "은행은 몇 시에 문을 여나요?",
+    "category": "시간",
+    "structure": "What time + does + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "What time",
+        "meaning": "몇 시에"
+      },
+      {
+        "chunk": "does the bank open",
+        "meaning": "은행은 문을 여나요"
+      }
+    ],
+    "audio_file": "WHT001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHI001",
+    "question_word": "Which",
+    "question": "Which station are we meeting at?",
+    "translation": "우리는 어느 역에서 만나기로 했나요?",
+    "category": "선택",
+    "structure": "Which + 명사 + be동사 + 주어 + 동사-ing + 전치사",
+    "listening_focus": [
+      {
+        "chunk": "Which station",
+        "meaning": "어느 역에서"
+      },
+      {
+        "chunk": "are we meeting",
+        "meaning": "우리는 만나기로 했나요"
+      },
+      {
+        "chunk": "at",
+        "meaning": "그곳에서"
+      }
+    ],
+    "audio_file": "WHI001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY001",
+    "question_word": "Why",
+    "question": "Why have they moved the tables?",
+    "translation": "그들은 왜 테이블을 옮겼나요?",
+    "category": "이유",
+    "structure": "Why + have + 주어 + 과거분사 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Why",
+        "meaning": "왜"
+      },
+      {
+        "chunk": "have they moved",
+        "meaning": "그들은 옮겼나요"
+      },
+      {
+        "chunk": "the tables",
+        "meaning": "테이블을"
+      }
+    ],
+    "audio_file": "WHY001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY002",
+    "question_word": "Why",
+    "question": "Why don't we practice the speech again?",
+    "translation": "우리 연설을 다시 연습하는 게 어떨까요?",
+    "category": "제안",
+    "structure": "Why don't + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Why don't we",
+        "meaning": "우리 ~하는 게 어떨까요"
+      },
+      {
+        "chunk": "practice the speech",
+        "meaning": "연설을 연습하는"
+      },
+      {
+        "chunk": "again",
+        "meaning": "다시"
+      }
+    ],
+    "audio_file": "WHY002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW001",
+    "question_word": "How",
+    "question": "How do our customers like the new coffee?",
+    "translation": "우리 고객들은 새로운 커피를 어떻게 생각하나요?",
+    "category": "의견",
+    "structure": "How + do + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "How",
+        "meaning": "어떻게"
+      },
+      {
+        "chunk": "do our customers like",
+        "meaning": "우리 고객들은 좋아하나요 / 어떻게 생각하나요"
+      },
+      {
+        "chunk": "the new coffee",
+        "meaning": "새로운 커피를"
+      }
+    ],
+    "audio_file": "HOW001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW002",
+    "question_word": "How",
+    "question": "How long will the meeting last?",
+    "translation": "회의는 얼마나 오래 진행되나요?",
+    "category": "기간",
+    "structure": "How long + will + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "How long",
+        "meaning": "얼마나 오래"
+      },
+      {
+        "chunk": "will the meeting last",
+        "meaning": "회의는 진행되나요"
+      }
+    ],
+    "audio_file": "HOW002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHY003",
+    "question_word": "Why",
+    "question": "Why did you buy a used car?",
+    "translation": "왜 중고차를 구입하셨나요?",
+    "category": "이유",
+    "structure": "Why + did + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Why",
+        "meaning": "왜"
+      },
+      {
+        "chunk": "did you buy",
+        "meaning": "구입하셨나요"
+      },
+      {
+        "chunk": "a used car",
+        "meaning": "중고차를"
+      }
+    ],
+    "audio_file": "WHY003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHO001",
+    "question_word": "Who",
+    "question": "Who will clean the office?",
+    "translation": "누가 사무실을 청소할 예정인가요?",
+    "category": "사람",
+    "structure": "Who + will + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Who",
+        "meaning": "누가"
+      },
+      {
+        "chunk": "will clean",
+        "meaning": "청소할 예정인가요"
+      },
+      {
+        "chunk": "the office",
+        "meaning": "사무실을"
+      }
+    ],
+    "audio_file": "WHO001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE001",
+    "question_word": "When",
+    "question": "When can I see the event plans?",
+    "translation": "언제 행사 계획을 볼 수 있나요?",
+    "category": "시간",
+    "structure": "When + can + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "can I see",
+        "meaning": "제가 볼 수 있나요"
+      },
+      {
+        "chunk": "the event plans",
+        "meaning": "행사 계획을"
+      }
+    ],
+    "audio_file": "WHE001.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHR003",
+    "question_word": "Where",
+    "question": "Where are you going this summer?",
+    "translation": "이번 여름에 어디로 가실 예정인가요?",
+    "category": "장소",
+    "structure": "Where + be동사 + 주어 + going + 시간 표현",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디로"
+      },
+      {
+        "chunk": "are you going",
+        "meaning": "가실 예정인가요"
+      },
+      {
+        "chunk": "this summer",
+        "meaning": "이번 여름에"
+      }
+    ],
+    "audio_file": "WHR003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW003",
+    "question_word": "How",
+    "question": "How can I fix my Internet connection?",
+    "translation": "인터넷 연결 문제를 어떻게 해결할 수 있나요?",
+    "category": "방법",
+    "structure": "How + can + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "How",
+        "meaning": "어떻게"
+      },
+      {
+        "chunk": "can I fix",
+        "meaning": "제가 해결할 수 있나요"
+      },
+      {
+        "chunk": "my Internet connection",
+        "meaning": "제 인터넷 연결 문제를"
+      }
+    ],
+    "audio_file": "HOW003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHI002",
+    "question_word": "Which",
+    "question": "Which jacket belongs to you?",
+    "translation": "어느 재킷이 당신 것인가요?",
+    "category": "선택",
+    "structure": "Which + 명사 + 동사 + 전치사구",
+    "listening_focus": [
+      {
+        "chunk": "Which jacket",
+        "meaning": "어느 재킷이"
+      },
+      {
+        "chunk": "belongs to you",
+        "meaning": "당신의 것인가요"
+      }
+    ],
+    "audio_file": "WHI002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW004",
+    "question_word": "How",
+    "question": "How much do you spend on food every week?",
+    "translation": "매주 음식에 얼마를 지출하시나요?",
+    "category": "금액",
+    "structure": "How much + do + 주어 + 동사원형 + 전치사구 + 시간 표현",
+    "listening_focus": [
+      {
+        "chunk": "How much",
+        "meaning": "얼마를"
+      },
+      {
+        "chunk": "do you spend",
+        "meaning": "지출하시나요"
+      },
+      {
+        "chunk": "on food",
+        "meaning": "음식에"
+      },
+      {
+        "chunk": "every week",
+        "meaning": "매주"
+      }
+    ],
+    "audio_file": "HOW004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHR004",
+    "question_word": "Where",
+    "question": "Where can I pick up my medicine?",
+    "translation": "제 약을 어디에서 찾을 수 있나요?",
+    "category": "장소",
+    "structure": "Where + can + 주어 + 동사구 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디에서"
+      },
+      {
+        "chunk": "can I pick up",
+        "meaning": "제가 찾아갈 수 있나요"
+      },
+      {
+        "chunk": "my medicine",
+        "meaning": "제 약을"
+      }
+    ],
+    "audio_file": "WHR004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHE002",
+    "question_word": "When",
+    "question": "When did Erica get her certificate?",
+    "translation": "에리카는 언제 자격증을 받았나요?",
+    "category": "시간",
+    "structure": "When + did + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "When",
+        "meaning": "언제"
+      },
+      {
+        "chunk": "did Erica get",
+        "meaning": "에리카는 받았나요"
+      },
+      {
+        "chunk": "her certificate",
+        "meaning": "그녀의 자격증을"
+      }
+    ],
+    "audio_file": "WHE002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHT002",
+    "question_word": "What",
+    "question": "What do you think of our new manager?",
+    "translation": "우리의 새로운 관리자에 대해 어떻게 생각하시나요?",
+    "category": "의견",
+    "structure": "What + do + 주어 + think of + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "What",
+        "meaning": "무엇을"
+      },
+      {
+        "chunk": "do you think of",
+        "meaning": "어떻게 생각하시나요"
+      },
+      {
+        "chunk": "our new manager",
+        "meaning": "우리의 새로운 관리자에 대해"
+      }
+    ],
+    "audio_file": "WHT002.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHR005",
+    "question_word": "Where",
+    "question": "Where is the nearest bookstore?",
+    "translation": "가장 가까운 서점은 어디에 있나요?",
+    "category": "장소",
+    "structure": "Where + be동사 + 주어",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디에"
+      },
+      {
+        "chunk": "is",
+        "meaning": "있나요"
+      },
+      {
+        "chunk": "the nearest bookstore",
+        "meaning": "가장 가까운 서점이"
+      }
+    ],
+    "audio_file": "WHR005.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHR006",
+    "question_word": "Where",
+    "question": "Where can I put these decorations?",
+    "translation": "이 장식품들을 어디에 놓으면 되나요?",
+    "category": "장소",
+    "structure": "Where + can + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디에"
+      },
+      {
+        "chunk": "can I put",
+        "meaning": "제가 놓으면 되나요"
+      },
+      {
+        "chunk": "these decorations",
+        "meaning": "이 장식품들을"
+      }
+    ],
+    "audio_file": "WHR006.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHR007",
+    "question_word": "Where",
+    "question": "Where did you hear the news?",
+    "translation": "그 소식을 어디에서 들으셨나요?",
+    "category": "장소",
+    "structure": "Where + did + 주어 + 동사원형 + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디에서"
+      },
+      {
+        "chunk": "did you hear",
+        "meaning": "들으셨나요"
+      },
+      {
+        "chunk": "the news",
+        "meaning": "그 소식을"
+      }
+    ],
+    "audio_file": "WHR007.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHR008",
+    "question_word": "Where",
+    "question": "Where is the company meeting taking place?",
+    "translation": "회사 회의는 어디에서 열리나요?",
+    "category": "장소",
+    "structure": "Where + be동사 + 주어 + 동사구",
+    "listening_focus": [
+      {
+        "chunk": "Where",
+        "meaning": "어디에서"
+      },
+      {
+        "chunk": "is the company meeting",
+        "meaning": "회사 회의는"
+      },
+      {
+        "chunk": "taking place",
+        "meaning": "열리나요"
+      }
+    ],
+    "audio_file": "WHR008.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHT003",
+    "question_word": "What",
+    "question": "What time will the meeting start?",
+    "translation": "회의는 몇 시에 시작하나요?",
+    "category": "시간",
+    "structure": "What time + will + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "What time",
+        "meaning": "몇 시에"
+      },
+      {
+        "chunk": "will the meeting start",
+        "meaning": "회의는 시작하나요"
+      }
+    ],
+    "audio_file": "WHT003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHT004",
+    "question_word": "What",
+    "question": "What date is Ms. Kim coming to visit the office?",
+    "translation": "김 씨는 며칠에 사무실을 방문하러 오시나요?",
+    "category": "날짜",
+    "structure": "What date + be동사 + 주어 + 동사-ing + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "What date",
+        "meaning": "며칠에"
+      },
+      {
+        "chunk": "is Ms. Kim coming",
+        "meaning": "김 씨는 오시나요"
+      },
+      {
+        "chunk": "to visit the office",
+        "meaning": "사무실을 방문하러"
+      }
+    ],
+    "audio_file": "WHT004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "HOW005",
+    "question_word": "How",
+    "question": "How much is the fee at your gym?",
+    "translation": "다니시는 헬스장의 이용료는 얼마인가요?",
+    "category": "금액",
+    "structure": "How much + be동사 + 주어 + 전치사구",
+    "listening_focus": [
+      {
+        "chunk": "How much",
+        "meaning": "얼마인가요"
+      },
+      {
+        "chunk": "is the fee",
+        "meaning": "이용료는"
+      },
+      {
+        "chunk": "at your gym",
+        "meaning": "다니시는 헬스장의"
+      }
+    ],
+    "audio_file": "HOW005.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHT005",
+    "question_word": "What",
+    "question": "What do you think about the paintings?",
+    "translation": "그 그림들에 대해 어떻게 생각하시나요?",
+    "category": "의견",
+    "structure": "What + do + 주어 + think about + 목적어",
+    "listening_focus": [
+      {
+        "chunk": "What",
+        "meaning": "무엇을"
+      },
+      {
+        "chunk": "do you think about",
+        "meaning": "어떻게 생각하시나요"
+      },
+      {
+        "chunk": "the paintings",
+        "meaning": "그 그림들에 대해"
+      }
+    ],
+    "audio_file": "WHT005.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHI003",
+    "question_word": "Which",
+    "question": "Which apron do you want?",
+    "translation": "어느 앞치마를 원하시나요?",
+    "category": "선택",
+    "structure": "Which + 명사 + do + 주어 + 동사원형",
+    "listening_focus": [
+      {
+        "chunk": "Which apron",
+        "meaning": "어느 앞치마를"
+      },
+      {
+        "chunk": "do you want",
+        "meaning": "원하시나요"
+      }
+    ],
+    "audio_file": "WHI003.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
+    "id": "WHI004",
+    "question_word": "Which",
+    "question": "Which airline are we taking to Hawaii?",
+    "translation": "우리는 하와이에 갈 때 어느 항공사를 이용하나요?",
+    "category": "선택",
+    "structure": "Which + 명사 + be동사 + 주어 + 동사-ing + 전치사구",
+    "listening_focus": [
+      {
+        "chunk": "Which airline",
+        "meaning": "어느 항공사를"
+      },
+      {
+        "chunk": "are we taking",
+        "meaning": "우리는 이용하나요"
+      },
+      {
+        "chunk": "to Hawaii",
+        "meaning": "하와이에 갈 때"
+      }
+    ],
+    "audio_file": "WHI004.mp3",
+    "audio_speed": 1.0,
+    "voice": "US_Female"
+  },
+  {
     "id": "WHO001",
     "question_word": "Who",
     "question": "Who is going to lead the meeting?",
